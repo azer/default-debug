@@ -1,0 +1,15 @@
+{
+  "name": "default-debug",
+  "version": "0.0.0",
+  "description": "enable specified debug functions by default",
+  "main": "index.js",
+  "keywords": [
+    "debug"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/default-debug.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
